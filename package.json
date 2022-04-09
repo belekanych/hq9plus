@@ -1,0 +1,25 @@
+{
+  "name": "hq9plus",
+  "version": "0.0.1",
+  "description": "HQ9+ interpreter",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belekanych/hq9plus.git"
+  },
+  "author": "Yuriy Belekanych <yuriy.belekanych@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belekanych/hq9plus/issues"
+  },
+  "homepage": "https://github.com/belekanych/hq9plus#readme",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@types/node": "^17.0.23",
+    "typescript": "^4.6.3"
+  }
+}
